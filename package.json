@@ -1,6 +1,6 @@
 {
   "name": "@riya-ezee/demotest",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "scripts": {
     "dev": "webpack-dev-server --mode development --port=8086",
     "build": "cross-env NODE_ENV=production rollup -c"
