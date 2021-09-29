@@ -5,9 +5,7 @@
     "dev": "webpack-dev-server --mode development --port=8086",
     "build": "cross-env NODE_ENV=production rollup -c"
   },
-  "dependencies": {
-    "vue": "^2.6.14"
-  },
+  "dependencies": {},
   "peerDependencies": {
     "vue": "^2.6.14"
   },
