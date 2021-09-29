@@ -1,6 +1,6 @@
 {
   "name": "@riya-ezee/demotest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "dev": "webpack-dev-server --mode development --port=8086",
     "build": "cross-env NODE_ENV=production rollup -c"
@@ -47,8 +47,8 @@
   },
   "description": "## Project setup ``` npm install ```",
   "main": "dist/@riya-ezee/bundle.js",
-  "module": "dist/@vaishali-ezee/bundle.js",
-  "jsnext:main": "dist/@vaishali-ezee/bundle.js",
+  "module": "dist/@riya-ezee/bundle.js",
+  "jsnext:main": "dist/@riya-ezee/bundle.js",
   "files": [
     "dist"
   ],
